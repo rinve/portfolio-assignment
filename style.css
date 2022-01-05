@@ -1,0 +1,44 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+}
+.skyblue-color{
+    color: orange;
+
+}
+.head-pragraph {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 50px;
+     
+}
+.head-area{
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 20px;
+    
+}
+
+#first-heading{
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato, red);
+    border-image-slice: 1;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient( tomato, yellow);
+    padding: 4px 10px;
+    color: white;
+    font-weight: 5px;
+    border-radius: 4px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+}
