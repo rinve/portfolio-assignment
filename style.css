@@ -73,13 +73,17 @@ h2{
 
 }
 .experience-item{
-    height: 20%;
-    width: 20%;
+    
+    width: 30%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 40px;
+    
+}
+.experience-item img{
+    width: 80%;
 }
 .experience-area h1{
     text-align: center;
