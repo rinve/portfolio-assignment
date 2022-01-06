@@ -88,6 +88,21 @@ h2{
 .experience-area h1{
     text-align: center;
 }
+.follower-section{
+    margin: 0px 5%;
+    margin-bottom: 100px;
+    margin-top: 10%;
+    padding: 15px 50px;
+    box-shadow: 3px 3px 9px rebeccapurple;
+    display: flex;
+    background-color:salmon;
+}
+.followers{
+    text-align: center;
+    margin: 0 10%;
+    width: 20%;
+
+}
 .tomato-color{
     color: tomato;
 }
